@@ -1,6 +1,6 @@
-.body {color: blue;}
+body {color: blue;}
 
-.p {color: yellow;}
+p {color: yellow;}
 
 .container{
   display: grid;
