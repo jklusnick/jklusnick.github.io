@@ -1,6 +1,6 @@
-body {color: blue;}
+.body {color: blue;}
 
-p {color: yellow;}
+.p {color: yellow;}
 
 .container{
   grid-template-columns: 1fr, 1fr, 1fr;
