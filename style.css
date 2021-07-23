@@ -5,8 +5,8 @@ p {color: yellow;}
 .container{
   display: grid;
   color: #eff;
-  grid-template-columns: 1fr, 1fr, 1fr;
-  grid-template-rows: 1fr, 1fr, 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
 }
  .tile{
    color: #eff;
