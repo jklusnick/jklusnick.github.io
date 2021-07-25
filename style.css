@@ -1,6 +1,10 @@
 body {color: blue;}
 
-p {color: yellow;}
+p {
+  color: black; 
+  text-align: center; 
+  font-family: "New Courier", monospace;
+  font-size: 500%;}
 
 .container{
   display: grid;
