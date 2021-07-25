@@ -11,5 +11,6 @@ p {color: yellow;}
 }
  .tile{
    color: #eff;
+   text-align:center;
    background-color: #455;
 }
